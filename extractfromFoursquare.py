@@ -20,7 +20,7 @@ API_URL = "https://places-api.foursquare.com/places/search"
 API_VERSION = "2025-06-17"
 
 # Hardcoded key
-FSQ_API_KEY = "K41LVGQSUDRIWZW25EWY4FX2ZPRSC3042FYJQQIPH5TDOPWS"
+FSQ_API_KEY = "___PUT___YOUR___KEY___"
 
 HEADERS = {
     "accept": "application/json",
@@ -458,3 +458,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
